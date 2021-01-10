@@ -20,6 +20,9 @@ For all general inquiries, please email silentpool [at] gmail [dot] com.
 ### Demo Policy
 If you think that your work would be a good fit for this platform, send **links** of your portfolio to silentpooldemos [at] gmail [dot] com. Emails with attached files will be deleted.
 
-While we will view all submissions that are correctly sent, the label does have a specific aesthetic. We do not care how sick your latest trap beat is; send it to someone else.  
+While we will view all submissions that are correctly sent, the label does have a specific aesthetic. We do not care how sick your latest trap beat is; send it to someone else.
+
+
+©2021 Silent Pool
 
 
