@@ -1,32 +1,15 @@
 ## Welcome to the Silent Pool
-### A Multimedia Label for Aural and Visual Art
 
+### Backstory
+Silent Pool was founded by Marc LeVan, a musician and photographer from Atlanta. The label promotes his audio and visual projects exclusively, but future plans include opening the platform to other artists.
 
+### Discography
+Releases can be purchased on [Bandcamp](https://marclevan.bandcamp.com/releases) and streamed on Spotify, Apple Music, and Soundcloud.  
 
-```markdown
-Syntax highlighted code block
+### Photography
+Prints can be purchased on [VSUAL](https://www.vsual.co/shop/silent-pool).
 
-# Header 1
-## Header 2
-### Header 3
+### Social Media
+- [Instagram](https://www.instagram.com/marc_levan/)
+- Twitter
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trellisaze/animated-carnival/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
