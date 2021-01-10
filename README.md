@@ -3,10 +3,10 @@
 ### Backstory
 Silent Pool was created by Marc LeVan, a musician and photographer from Atlanta. We are interested in ambient and experimental music, as well as abstract visual art. Our ethos is that when it comes to art, there are no rules. 
  
-### Aural
+### Aural Projects
 Music can be purchased on [Bandcamp](https://marclevan.bandcamp.com/releases) and streamed on Spotify, Apple Music, and Soundcloud.  
 
-### Visual
+### Visual Projects
 Prints can be purchased on [VSUAL](https://www.vsual.co/shop/silent-pool) and [ArtPal](https://www.artpal.com/silentpool). 
 
 ### Social Media
