@@ -12,6 +12,7 @@ Prints can be purchased on [VSUAL](https://www.vsual.co/shop/silent-pool) and [A
 ### Social Media
 - [Instagram](https://www.instagram.com/marc_levan/)
 - Twitter
+- YouTube
 
 ### Contact
 For all general inquiries, please email silentpool [at] gmail [dot] com.
