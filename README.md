@@ -10,7 +10,7 @@ Music can be purchased on [Bandcamp](https://marclevan.bandcamp.com/releases) an
 Prints can be purchased on [VSUAL](https://www.vsual.co/shop/silent-pool) and [ArtPal](https://www.artpal.com/silentpool). 
 
 ### Social Media
-- [Instagram](https://www.instagram.com/marc_levan/)
+- [Instagram](https://www.instagram.com/silentpoolrecords/)
 - [Twitter](https://twitter.com/SilentPool4)
 - [YouTube](https://www.youtube.com/channel/UCbPh-fLeBOlBwV4hKPKE7sg/)
 
