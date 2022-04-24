@@ -61,8 +61,7 @@ Our primary social medium is [Instagram](https://www.instagram.com/silentpoolrec
 For all general inquiries, please email silentpool [dot] info [at] gmail [dot] com.
 
 ### Demo Policy
-We are not accepting demos at this time.
-
+We are not accepting demos at this time. But check out this [picture](https://imgur.com/a/Dd8XS8Y)
 
 ©2022 M.D. LeVan // All rights reserved
 
