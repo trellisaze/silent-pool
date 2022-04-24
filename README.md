@@ -1,4 +1,4 @@
-## Hi. Pleasure to (digitally) meet you.
+## Hi there. Pleasure to (digitally) meet you.
 
 ### Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Marc LeVan, and I welcome you to my electronic portfolio. I am a Bachelor of Arts (B.A.) candidate at the University of South Carolina, where I have majored in mass communication and minored in English. I am graduating with honors (cum laude) in May of 2022. Upon graduation, I will concurrently pursue a Juris Doctor (J.D.) at the University of Maryland Francis King Carey School of Law and a Master of Business Administration (M.B.A.) at the Johns Hopkins University Carey Business School.
